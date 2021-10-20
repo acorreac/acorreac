@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Aline Correa ☺️
 
-- 🔭 Sou Front-end Developer.
+- 🔭 Sou Desenvolvedora Front-end.
 - 🌱 Atualmente estou aprendendo Flutter.
 
 <div align="center">
