@@ -27,3 +27,4 @@
 ![Snake animation](https://github.com/acorreac/acorreac/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+
