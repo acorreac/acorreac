@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Aline Correa ☺️
 
-- 🔭 Sou Desenvolvedora Front-end.
-- 🌱 Atualmente estou aprendendo Flutter.
+- 🔭 Sou Desenvolvedora de Software.
+- 🌱 Atualmente trabalho com Desenvolvimento de Software para Sistemas Embarcados.
 
 <div align="center">
   <a href="https://github.com/acorreac">
